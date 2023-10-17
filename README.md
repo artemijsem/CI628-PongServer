@@ -1,5 +1,6 @@
 # CI628-PongServer
-A simple server for multiplayer com.almasb.fxglgames.pong.
+A fork of PongServer developed by Almas Baimagambetov.
+Pong part of it probably does not exist at the time.
 
 ### Run pre-built binary
 
